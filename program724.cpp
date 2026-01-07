@@ -289,7 +289,7 @@ void DisplayHelp()
 //  Description :       It is used to Display the manual page of the command
 //  Input :             It accepts the command name
 //  Output :            Displays the manual details of the command
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Ujjwal Dattatraya Patil
 //  Date :              11/08/2025
 //
 ///////////////////////////////////////////////////////////////////////
@@ -366,7 +366,7 @@ void ManPage(
 //  Description :       It is used to check whether the given file name is exist or not
 //  Input :             It accepts the file name
 //  Output :            It returns boolean value (True : if present False : if not present)
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Ujjwal Dattatraya Patil
 //  Date :              11/08/2025
 //
 ///////////////////////////////////////////////////////////////////////
@@ -398,7 +398,7 @@ bool IsFileExists(
 //  Description :       It is used to create a new regular file
 //  Input :             It accepts the file name and permission
 //  Output :            It returns the file descriptor
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Ujjwal Dattatraya Patil
 //  Date :              11/08/2025
 //
 ///////////////////////////////////////////////////////////////////////
